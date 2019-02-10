@@ -102,10 +102,14 @@ body {
     font-size: 12px;
     color: #91887e;
 }
-
-.btn-primary {
+.btn-regster {
     color: white;
-    background-color: #DEB887;
+    background-color: #eee385;
+}
+
+.btn-regster:hover {
+    color: white;
+    background-color: #e0d065;
 }
 
 .btn-google {
